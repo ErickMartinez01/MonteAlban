@@ -1,0 +1,50 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Concrete_Block_8x8_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.619608 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Concrete_Block_8x8_Gray.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.152941 0.078431
+Ks 0.330000 0.330000 0.330000
+
+newmtl Pavers_Flagstone_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Pavers_Flagstone_Gray.jpg
+
+newmtl Roofing_Shingles_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.498039 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Roofing_Shingles_Multi.jpg
+
+newmtl Grass_Dark_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.615686 0.215686
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Grass_Dark_Green.jpg
+
+newmtl Groundcover_Brick_Crushed
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.345098 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Groundcover_Brick_Crushed.jpg
+
+newmtl Roofing_Metal_Standing_Seam_Red
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.274510 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaNorte/Roofing_Metal_Standing_Seam_Red.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
