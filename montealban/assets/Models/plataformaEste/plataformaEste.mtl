@@ -2,51 +2,34 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl Concrete_Block_8x8_Gray
+newmtl _
 Ka 0.000000 0.000000 0.000000
-Kd 0.615686 0.619608 0.603922
+Kd 0.537255 0.466667 0.400000
 Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Concrete_Block_8x8_Gray.jpg
+map_Kd plataformaEste/_.jpg
 
 newmtl BackColor
 Ka 0.000000 0.000000 0.000000
 Kd 0.776471 0.223529 0.000000
 Ks 0.330000 0.330000 0.330000
 
-newmtl Pavers_Flagstone_Gray
+newmtl _1
 Ka 0.000000 0.000000 0.000000
-Kd 0.635294 0.635294 0.635294
+Kd 0.717647 0.623529 0.533333
 Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Pavers_Flagstone_Gray.jpg
+map_Kd plataformaEste/_1.jpg
 
-newmtl Roofing_Shingles_Multi
+newmtl _2
 Ka 0.000000 0.000000 0.000000
-Kd 0.533333 0.498039 0.490196
+Kd 0.568627 0.494118 0.423529
 Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Roofing_Shingles_Multi.jpg
+map_Kd plataformaEste/_2.png
 
-newmtl Grass_Dark_Green
+newmtl _3
 Ka 0.000000 0.000000 0.000000
-Kd 0.415686 0.615686 0.215686
+Kd 0.568627 0.494118 0.423529
 Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Grass_Dark_Green.jpg
-
-newmtl Roofing_Scalloped_Ornate
-Ka 0.000000 0.000000 0.000000
-Kd 0.858824 0.364706 0.196078
-Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Roofing_Scalloped_Ornate.jpg
-
-newmtl Roofing_Metal_Standing_Seam_Red
-Ka 0.000000 0.000000 0.000000
-Kd 0.650980 0.274510 0.227451
-Ks 0.330000 0.330000 0.330000
-map_Kd plataformaEste/Roofing_Metal_Standing_Seam_Red.jpg
-
-newmtl FrontColor
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
+map_Kd plataformaEste/_3.jpg
 
 newmtl ForegroundColor
 Ka 0.000000 0.000000 0.000000
